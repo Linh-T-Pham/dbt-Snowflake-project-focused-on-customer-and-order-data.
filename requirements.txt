@@ -1,0 +1,8 @@
+dbt-core 
+dbt-mysql
+dbt-redshift
+dbt-postgres
+dbt-snowflake
+pandas 
+boto3
+faker

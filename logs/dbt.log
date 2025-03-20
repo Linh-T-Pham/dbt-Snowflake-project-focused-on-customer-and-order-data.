@@ -1,0 +1,24 @@
+[0m13:00:40.866980 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11098a950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1109969d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110997d90>]}
+
+
+============================== 13:00:40.870939 | 550de580-5f4b-48cf-a504-0493fe396441 ==============================
+[0m13:00:40.870939 [info ] [MainThread]: Running with dbt=1.7.9
+[0m13:00:40.871752 [debug] [MainThread]: running dbt with arguments {'debug': 'False', 'write_json': 'True', 'static_parser': 'True', 'profiles_dir': '/Users/linhpham/.dbt', 'log_format': 'default', 'introspect': 'True', 'partial_parse': 'True', 'no_print': 'None', 'use_colors': 'True', 'send_anonymous_usage_stats': 'True', 'log_cache_events': 'False', 'invocation_command': 'dbt init', 'use_experimental_parser': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'cache_selected_only': 'False', 'printer_width': '80', 'log_path': 'logs', 'warn_error': 'None', 'target_path': 'None', 'fail_fast': 'False', 'indirect_selection': 'eager', 'quiet': 'False', 'version_check': 'True'}
+[0m13:01:14.550128 [debug] [MainThread]: Starter project path: /opt/anaconda3/lib/python3.11/site-packages/dbt/include/starter_project
+[0m13:01:14.567998 [info ] [MainThread]: 
+Your new dbt project "snowflakeproject1" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m13:01:14.569084 [info ] [MainThread]: Setting up your profile.
